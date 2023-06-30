@@ -14,7 +14,7 @@ terraform {
     organization = "teague-terraform"
 
     workspaces {
-      name = "PBL-project-19"
+      name = "terraform-aws-pbl-19"
     }
   }
 }
