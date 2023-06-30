@@ -17,13 +17,13 @@ preferred_number_of_private_subnets = 4
 
 environment = "dev"
 
-ami-web = "ami-0cfa8c14613ca075a"
+ami-web = "ami-0c6f10489985037ea"
 
-ami-bastion = "ami-0463972c5b1966d78"
+ami-bastion = "ami-06975e8633a5f2049"
 
-ami-nginx = "ami-013cd16037f68ad76"
+ami-nginx = "ami-0d115523659483953"
 
-ami-sonar = "ami-05828bd2afbc2c038"
+ami-sonar = "ami-0357db8301715cb6f"
 
 
 keypair = "PBL"
