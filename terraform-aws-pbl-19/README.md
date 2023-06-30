@@ -14,7 +14,7 @@ The tooling code is stored in this [repository]((https://github.com/Livingstone9
 
 Always refer to the given diagram
 
-![project image](./tooling_project_15.png)
+![project image](./images/tooling_project_15.png)
 
 
 
